@@ -1,0 +1,19 @@
+p {
+    font-size: large;
+}
+
+.Characters {
+    display: flex;
+    justify-content: space-around;
+}
+
+.homepage-images {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around; 
+}
+
+.homepage-images img {
+    height: 100px;
+    width: auto;
+}
