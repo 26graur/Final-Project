@@ -1,0 +1,13 @@
+.Para {
+    
+}
+
+.Details {
+    display:flex;
+    flex-direction: column;
+}
+
+img {
+    height: 400px;
+    width:auto
+}
