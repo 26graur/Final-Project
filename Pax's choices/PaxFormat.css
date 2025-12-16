@@ -1,0 +1,14 @@
+.Details {
+    display:flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+}
+
+.Description{
+    width: 500px;
+}
+
+img {
+    height: 400px;
+    width:auto
+}
